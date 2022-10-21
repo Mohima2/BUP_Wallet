@@ -17,7 +17,7 @@
 		echo $execval;
 		
 		
-		echo "Registration successfully...";
+		echo "Recharged successfully...";
 		$stmt->close();
 		$conn->close();
 	}
