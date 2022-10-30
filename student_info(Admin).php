@@ -50,7 +50,8 @@ $conn = mysqli_connect("localhost", "root", "", "mohima");
         </div>
         <div class="text-bottom mb-5 ms-5">
           <p class="botton-content"><i class="fa-solid fa-person-dress-simple"></i><a href="profile.php">Admin Settings</a></p>
-          <p class="botton-content"><i class="fa-solid fa-person-dress-simple"></i>Sign Out</p>
+          <p class="botton-content"><i class="fa-solid fa-person-dress-simple"></i><a href="dashboar.php">Back</a></p>         
+          
         </div>
       </div>
 
